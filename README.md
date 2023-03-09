@@ -8,8 +8,6 @@ Being president of [@STACK](https://github.com/stack-cetys) allows me to connect
 
 As for projects, I'm currently learning how to build my own OS for an Algebra board, learning web development for my own website, and a few other projects that I'll be sharing soon.
 
-<!-- Missing to add the interactive buttons to my profile, thinking of adding at least my resume and LinkedIn profile -->
-
 #
 
 ### 🧰 **Languages and Tools**
@@ -28,6 +26,7 @@ As for projects, I'm currently learning how to build my own OS for an Algebra bo
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <br />
 
 #

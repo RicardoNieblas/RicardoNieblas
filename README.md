@@ -33,7 +33,8 @@ As for projects, I'm currently learning how to build my own OS for an Algebra bo
 
 ### 📊 **Stats**
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardonieblas&show_icons=true&theme=tokyonight&count_private=true)
+![Ricardo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ricardonieblas&show_icons=true&theme=default&count_private=true&bg_color=00000000#gh-light-mode-only)
+![Ricardo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ricardonieblas&show_icons=true&theme=dark&count_private=true&bg_color=00000000#gh-dark-mode-only)
 
 #
 

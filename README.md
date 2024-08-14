@@ -46,7 +46,7 @@ My journey starts in 2021, when I decided to apply for Computer Science at CETYS
 
 3. **Third semester**: I learned about Data Structures. The stereotypical information you hear about software development interviews: linked lists, stacks, sorting systems, graphs, etc. This is also the time when I started [@STACK](https://github.com/stack-cetys), a programming focused student club.
 
-4. **Fourth semester**: Currently on my fourth semester, I am learning about graphics and visualization, as well as analysis of algorithms (time complexity stuff). Outside of school I also started learning Swift, which is what I'm currently focusing on for participating on Apple's Swift Student Challenge.
+4. **Fourth semester**: At this time I got to learn about graphics and visualization, as well as analysis of algorithms (time complexity stuff). Outside of school I also started learning Swift, which is what I'm currently focusing on for participating on Apple's Swift Student Challenge.
 
 5. **Fifth semester**: This is where I started learning about Machine Learning. I created a program that would detect the user's emotions based on their facial expressions. I also gained some skills regarding project management, as I was the project manager for a team of 5 people.
 

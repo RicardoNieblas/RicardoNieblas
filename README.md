@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=24&pause=1000&color=2450D6&width=435&lines=Impossible+is+nothing)](https://git.io/typing-svg)
 
-I'm a 6th semester Computer Science student at <b>CETYS University</b>, building the best version of myself, one step at a time. I love to learn new things, always looking for new challenges to overcome and new ways to improve my skills.
+I'm an indie developer focused primarily on web development, building the best version of myself, one step at a time. I love to learn new things, always looking for new challenges to overcome and new ways to improve my skills.
 
-Being president of [@STACK](https://github.com/stack-cetys) allows me to connect to professors and the community, so I can help others to grow as developers.
+All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'll do my best on adapting to your needs and creating a solution that matches exactly all your needs.
 
-As for projects, I'm currently kick-starting my freelancing services as software development, and a few other projects  I'll be sharing soon.
+Wanna get in touch with me? Happy to help! Reach me out at [nieblas008\@gmail.com](mailto:nieblas008\@gmail.com)
 
 #
 
@@ -34,6 +34,8 @@ As for projects, I'm currently kick-starting my freelancing services as software
 
 [![Ricardo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ricardonieblas&show_icons=true&theme=default&count_private=true&bg_color=00000000#gh-light-mode-only)](https://github.com/ricardonieblas/github-readme-stats#gh-light-mode-only)
 
+<!--
+
 #
 
 ### 👨‍💻 **Ricardo's Coding Journey**
@@ -48,7 +50,7 @@ My journey starts in 2021, when I decided to apply for Computer Science at CETYS
 
 4. **Fourth semester**: At this time I got to learn about graphics and visualization, as well as analysis of algorithms (time complexity stuff). Outside of school I also started learning Swift, which is what I'm currently focusing on for participating on Apple's Swift Student Challenge.
 
-5. **Fifth semester**: This is where I started learning about Machine Learning. I created a program that would detect the user's emotions based on their facial expressions. I also gained some skills regarding project management, as I was the project manager for a team of 5 people.
+5. **Fifth semester**: This is where I started learning about Machine Learning. I created a program that would detect the user's emotions based on their facial expressions. I also gained some skills regarding project management, as I was the project manager for a team of 5 people. -->
 
 <!-- 6. **Sixth semester**: probably talk about the solo developer business -->
 
